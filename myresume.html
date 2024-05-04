@@ -1,0 +1,235 @@
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Thoufiq Yahya</title>
+<style>
+body {
+    color: #000000;
+    background: #EEEEEE;
+    font: 1.1em "Times New Roman";
+    line-height: 1.2;
+    margin: 40px 0;
+}
+#resume {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 40px 10px;
+    background: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    box-shadow: 2px 2px 4px #AAAAAA;
+    -webkit-box-shadow: 2px 2px 4px #AAAAAA;
+}
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+h2 {
+    border-bottom: 1px solid #000000;
+    text-transform: uppercase;
+    font-size: 130%;
+    margin: 1em 0 0 0;
+    padding: 0;
+}
+h3 {
+    font-size: 100%;
+    margin: 0.8em 0 0.3em 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+p {
+    margin: 10 0 0.5em 0;
+    padding: 0;
+    }
+ul {
+    padding: 0;
+    margin: 0 1.5em;
+    }
+li {
+	margin-top: 5;
+}
+/* ul immediately after h1 = contact list */
+h1 + ul {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    }
+h1 + ul > li {
+    display: inline;
+    white-space: pre;
+    list-style-type: none;
+}
+h1 + ul > li:after {
+    content: "  \2022  ";
+}
+h1 + ul > li:last-child:after {
+    content: "";
+}
+/* p immediately after contact list = summary */
+h1 + ul + p {
+    margin: 1em 0;
+}
+/* custom css */
+h2 + ul {
+    margin-top: 5;
+}
+
+.line {
+    border: none; /* Remove default border */
+    border-top: 1px solid black; /* Add custom border */
+}
+
+.info {
+   font-size: 80%;
+}
+/*-----------*/
+@media print {
+    body {
+        font-size: 10pt;
+        margin: 0;
+        padding: 0;
+        background: none;
+    }
+    #resume {
+        margin: 0;
+        padding: 0;
+        border: 0px;
+        background: none;
+        box-shadow: none;
+        -webkit-box-shadow: none;
+    }
+    /* Do not underline abbr tags in PDF */
+    abbr {
+        text-decoration: none;
+        font-variant: none;
+    }
+    /* Make links black in PDF */
+    /* Move this outside the print block to apply this in HTML too */
+    a, a:link, a:visited, a:hover {
+        color: #000000;
+        text-decoration: underline;
+    }
+}
+@page {
+    /* Change margins and paper size of PDF */
+    /* https://developer.mozilla.org/en-US/docs/Web/CSS/@page */
+    size: letter;
+    margin: 0.5in 0.8in;
+}
+@media screen and (max-width: 800px) {
+    body {
+        font-size: 16pt;
+        margin: 0;
+        padding: 0;
+        background: #FFFFFF !important;
+    }
+    #resume {
+        margin: 0;
+        padding: 1em;
+        border: 0px;
+        background: none;
+        box-shadow: none;
+        -webkit-box-shadow: none;
+    }
+}
+
+</style>
+</head>
+<body>
+<div id="resume">
+<h1>Thoufiq Yahya</h1>
+<ul>
+<li><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#116;&#104;&#97;&#119;&#102;&#101;&#101;&#107;&#121;&#97;&#104;&#121;&#97;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">&#116;&#104;&#97;&#119;&#102;&#101;&#101;&#107;&#121;&#97;&#104;&#121;&#97;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a></li>
+<li>00 91 9894332552</li>
+<li><a href="https://www.linkedin.com/in/thawfeek-yahya-31017723/">LinkedIn</a></li>
+<li>Bangalore,KA,India</li>
+</ul>
+<h2>EXECUTIVE SUMMARY</h2>
+<p>Seasoned IT professional with over 12 years of diverse experience across multiple domains including application programming, embedded systems, animation, and UI/UX design. Possesses a strong foundation in software development methodologies and technologies, with a proven track record of delivering innovative solutions that meet technical and business objectives.</p>
+<h2>FUNCTIONAL EXPERTISE</h2>
+<ul>
+<li><strong>Language</strong> - C++, Qt, QML, CMake, Python, Javascript, Bash</li>
+<li><strong>Technical Expertise</strong> - HMI, UI/UX, Automotive Infotainment,Automotive IVI, Software Architecture, Design Patterns</li>
+<li><strong>Technical Proficiencies</strong> - Linux, IPC, Sound Dialogue System, Voice UI, GUI, OOPS, SOLID Principles,Data structures</li>
+</ul>
+<h2>FUNCTIONAL EXPERTISE DEMONSTRATED</h2>
+<h3><span> Mercedes Benz R &amp; D India</span> <span>April 2021 - November 2023 </span></h3>
+<p><span class="info">
+<em>Mercedes-Benz is one of the biggest producers of premium cars and the world’s biggest manufacturer of commercial vehicles with a global reach.</em>
+</span></p>
+<h3>Tech Lead</h3>
+<hr class="line" />
+<p>As the technical lead for the Widgets team in India, I am tasked with comprehending the system, designing its architecture, and leading the team in widget development alongside the concept team.</p>
+<ul>
+<li><strong>Software Design and Architecture / HMI:</strong> Worked closely with the concept team to implement widgets, converting detailed requirements into software architecture using UML diagrams.</li>
+<li><strong>Software Design and Architecture:</strong> Leveraged SOLID and OOP principles to design robust architecture solutions.</li>
+<li>Led a team of five members in the development of Qt / QML / C++ based UI Widgets for the MBUX system, overseeing project milestones and ensuring the successful delivery of objectives.</li>
+<li>Assigning incoming bugs to team members and providing guidance to effectively narrow down the issue.</li>
+<li>Collaborated with the CI/CD team to ensure the proper deployment of pipeline artifacts essential for Widgets development.</li>
+</ul>
+<h3><span>Mercedes Benz R &amp; D India</span> <span>April 2016 - April 2021 </span></h3>
+<h3>Senior Software Engineer</h3>
+<hr class="line" />
+<p>As a senior software engineer, I&rsquo;ve engaged with diverse technology stacks, including sound dialogue systems, automotive IVI components, and widgets development.</p>
+<ul>
+<li><strong>UI / UX / Qt / QML:</strong> Utilized Qt Framework to develop UI Widgets for the MBOS, demonstrating proficiency in delivering complex and multiple widgets within an agile environment.</li>
+<li><strong>C++ / Qt / QML / CMake:</strong> Spearheaded the development of a Dialog Manager framework, integrating various NLU engines such as DialogFlow.AI, RASA NLU, Wit.AI, and Houndify as backends for the (SDS) Sound Dialogue System.</li>
+<li><strong>Bash / CMake:</strong> Led migration activities from Ubuntu 16.04 to Ubuntu 20.04 by leveraging custom bash scripts and Docker containers, demonstrating strong problem-solving skills and adaptability.</li>
+<li><strong>C++ / Qt / QML:</strong> Employed unit test frameworks such as GMock and GTest to implement Test-Driven Development (TDD) practices.</li>
+<li><strong>HMI / Automotive IVI:</strong> Experience in development and connected applications in Automotive Human-Machine Interface (HMI).</li>
+<li><strong>HMI / Automotive IVI:</strong> Experience in developing within the Linux environment, including proficiency with Inter-Process Communication (IPC) mechanisms such as D-Bus.</li>
+<li><strong>Technical Troubleshooting and Debugging:</strong> Proficient in utilizing tools such as GDB, JIRA, Git, and the GCC toolchain.</li>
+</ul>
+<h3><span>L&amp;T Technology Services</span> <span>June 2014 – April 2016 </span></h3>
+<p>L&amp;T Technology Services Limited (LTTS) is a global leader in Engineering and R&amp;D (ER&amp;D) services. With 650 patents filed for 53 of the Global Top 100 ER&amp;D spenders.</p>
+<h3>Technical Consultant</h3>
+<hr class="line" />
+<p>Employed as an Embedded UI Developer at the client site, NDS Cisco., focusing on developing EPG Platform.</p>
+<ul>
+<li><strong>UI / QML:</strong> Developed user interfaces (UI) for Electronic Programming Guide (EPG) on embedded systems within television setup boxes.</li>
+<li><strong>UI / UX:</strong> Utilized Action Script 3.0 / 2.0 and Adobe Flash GUI tool to create intuitive and responsive UI elements for enhancing user experience.</li>
+<li><strong>JavaScript / ActionScript</strong>: Implemented features such as channel guides, program schedules, and interactive menus within the EPG interface.</li>
+<li>Collaborated with hardware engineers to optimize UI performance and ensure compatibility with embedded system constraints.</li>
+</ul>
+<h3><span>I2Play Interactive</span> <span>Nov 2012 – June 2014</span></h3>
+<p>I2india Ventures is a Bangalore-based incubator providing financing and mentoring solutions to technology startups.</p>
+<h3>Game Developer</h3>
+<hr class="line" />
+<p>Member of the NPC/Particle Effects team, tasked with the development of multiple NPC  and particle effects within an MMOG.</p>
+<ul>
+<li><strong>UI / UX:</strong>  Responsible for integrating different animations and graphic assets into the game.</li>
+<li>Member of the NPC/Particle Effects team, tasked with the development of multiple NPC  and particle effects within an MMOG.</li>
+<li><strong>OOPS / Data Strcutures:</strong> Developed in-house game engine using different design patterns and OOPS concept.</li>
+<li>Led a team of two people in developing several mini-games and particle effects inside MMOG.</li>
+</ul>
+<h3><span>Excel Goodies</span> <span>June 2011 – Jan 2012</span></h3>
+<p>A startup company that specializes in web development and online education platforms.</p>
+<h3>Game Developer / Web Designer</h3>
+<hr class="line" />
+<p>Responsible for developing games in a web-based educational platform tool using Flash Software for K12 students.</p>
+<ul>
+<li><strong>Data structures and OOPS concept:</strong> Developed a 2D game framework from scratch and developed several games for K12 students using Flash.</li>
+<li><strong>UI / UX:</strong>  Designed several UI widgets and game assets using design tools such as Photoshop and Inkscape.</li>
+<li><strong>UI / UX:</strong>  Worked on HTML / CSS and developed UI screens for web browsers like Chrome, Firefox, and Opera.</li>
+</ul>
+<h3>EDUCATION</h3>
+<hr class="line" />
+<h3><span>Bachelor of Information Technology</span>  <span>2006 - 2009</span></h3>
+<h3><span>MS University (Tirunelveli, Tamil Nadu, India</span></h3>
+<h3>OTHER RELEVANT INFORMATION</h3>
+<hr class="line" />
+<ul>
+<li><strong>Additional Languages:</strong> German (Rudimentary)</li>
+<li><strong>Technology:</strong>  C++, Qt, QML, Automotive IVI, HMI, UI/UX, Linux, Docker, Bash, JavaScript, Action Script, Adobe Flash, Adobe Photoshop, FreeCAD, Inkscape, HTML, CSS, Git, Tortoise SVN, Clear Case.
+Awards:</li>
+</ul>
+<hr class="line" />
+<ul>
+<li>Star Performer — L &amp; T Technology Services (2015)</li>
+<li>Winner of Innovation Boot Camp — MBRDI (2019)</li>
+<li>Silver Star — MBRDI (2020)</li>
+</ul></div>
+</body>
+</html>
