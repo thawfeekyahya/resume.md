@@ -39,7 +39,7 @@ As the technical lead for the Widgets team in India, I am tasked with comprehend
  <hr class="line" />
  As a senior software engineer, I've engaged with diverse technology stacks, including sound dialogue systems, automotive IVI components, and widgets development.
 
-- **UI / UX / Qt / QML:** Utilized Qt Framework to develop UI Widgets for the MBOS, demonstrating proficiency in delivering complex and multiple widgets within an agile environment.
+- **C++ / Qt / QML:** Utilized Qt Framework to develop UI Widgets for the MBOS, demonstrating proficiency in delivering complex and multiple widgets within an agile environment.
 - **C++ / Qt / QML / CMake:** Spearheaded the development of a Dialog Manager framework, integrating various NLU engines such as DialogFlow.AI, RASA NLU, Wit.AI, and Houndify as backends for the (SDS) Sound Dialogue System.
 - **Bash / CMake:** Led migration activities from Ubuntu 16.04 to Ubuntu 20.04 by leveraging custom bash scripts and Docker containers, demonstrating strong problem-solving skills and adaptability.
 - **C++ / Qt / QML:** Employed unit test frameworks such as GMock and GTest to implement Test-Driven Development (TDD) practices.
