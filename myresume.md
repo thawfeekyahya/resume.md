@@ -7,14 +7,14 @@
 
 ## Executive summary
 
-Seasoned IT professional with over 12 years of diverse experience across multiple domains including application programming, embedded systems, animation, and UI/UX design. Possesses a strong foundation in software development methodologies and technologies, with a proven track record of delivering innovative solutions that meet technical and business objectives.
+Seasoned in embedded systems development with expertise in Qt/QML and C++, gained after transitioning from game development where Flash ActionScript was utilized extensively. Proficient in web design and full-stack development, with a foundation in front-end and back-end technologies. Skilled in graphic design tools like Photoshop, Inkscape, and Blender, with a track record of successfully integrating creativity with technical proficiency.
 
 
 ## Functional expertise
 
 - **Language** - C++, Qt, QML, CMake, Python, Javascript, Bash
 - **Technical Expertise** - HMI, UI/UX, Automotive Infotainment,Automotive IVI, Software Architecture, Design Patterns
-- **Technical Proficiencies** - Linux, IPC, Sound Dialogue System, Voice UI, GUI, OOPS, SOLID Principles,Data structures
+- **Technical Proficiencies** - Linux, Docker, IPC, Sound Dialogue System, Voice UI, GUI, OOPS, SOLID Principles,Data structures
 
 ##Functional expertise demonstrated 
 
