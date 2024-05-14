@@ -56,11 +56,11 @@ h1 + ul {
     text-align: center;
     margin: 0;
     padding: 0;
+    list-style-type: square;
     }
 h1 + ul > li {
     display: inline;
     white-space: pre;
-    list-style-type: none;
 }
 h1 + ul > li:after {
     content: "  \2022  ";
@@ -73,6 +73,16 @@ h1 + ul + p {
     margin: 1em 0;
 }
 /* custom css--------- */
+
+.job_title {
+    font-size: 12pt;
+    font-weight: bold;
+    display: block; /* or inline-block */
+    width: fit-content; /* optional, adjust width as needed */
+    margin: 0 auto; /* auto margin for center alignment */
+    text-align: center; /* center the text within the span */
+}
+
 h2 + ul {
     margin-top: 5;
 }
@@ -144,6 +154,7 @@ h2 + ul {
 <li><a href="https://www.linkedin.com/in/thawfeek-yahya-31017723/">LinkedIn</a></li>
 <li>Bangalore,KA,India</li>
 </ul>
+<p><span class="job_title"> Embedded Developer | Automotive IVI | UI Architect </span></p>
 <h2>Executive summary</h2>
 <p>Seasoned in embedded systems development with expertise in Qt/QML and C++, gained after transitioning from game development where Flash ActionScript was utilized extensively. Proficient in web design and full-stack development, with a foundation in front-end and back-end technologies. Skilled in graphic design tools like Photoshop, Inkscape, and Blender, with a track record of successfully integrating creativity with technical proficiency.</p>
 <h2>Functional expertise</h2>
@@ -213,7 +224,7 @@ h2 + ul {
 </ul>
 <h2>Education</h2>
 <h3><span>Bachelor of Information Technology</span>  <span>2006 - 2009</span></h3>
-<h3><span>MS University ,Tamil Nadu, India</span></h3>
+<h3><span>MS University ,Tamil Nadu, India.</span></h3>
 <h2>Other relevant information</h2>
 <ul>
 <li><strong>Additional Languages:</strong> German (Rudimentary)</li>
@@ -221,7 +232,7 @@ h2 + ul {
 <p><strong>Technology:</strong>  C++, Qt, QML, Automotive IVI, HMI, UI/UX, Linux, Docker, Bash, JavaScript, Action Script, Adobe Flash, Adobe Photoshop, FreeCAD, Inkscape, HTML, CSS, Git, Tortoise SVN, Clear Case.</p>
 </li>
 <li>
-<p><strong>Awards:</strong></p>
+<p><strong>Achievements:</strong></p>
 <ul>
 <li>Star Performer — L &amp; T Technology Services (2015)</li>
 <li>Winner of Innovation Boot Camp — MBRDI (2019)</li>

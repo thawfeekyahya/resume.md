@@ -51,11 +51,11 @@ h1 + ul {
     text-align: center;
     margin: 0;
     padding: 0;
+    list-style-type: square;
     }
 h1 + ul > li {
     display: inline;
     white-space: pre;
-    list-style-type: none;
 }
 h1 + ul > li:after {
     content: "  \2022  ";
@@ -68,6 +68,16 @@ h1 + ul + p {
     margin: 1em 0;
 }
 /* custom css--------- */
+
+.job_title {
+    font-size: 12pt;
+    font-weight: bold;
+    display: block; /* or inline-block */
+    width: fit-content; /* optional, adjust width as needed */
+    margin: 0 auto; /* auto margin for center alignment */
+    text-align: center; /* center the text within the span */
+}
+
 h2 + ul {
     margin-top: 5;
 }

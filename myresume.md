@@ -5,6 +5,7 @@
 - [LinkedIn](https://www.linkedin.com/in/thawfeek-yahya-31017723/)
 - Bangalore,KA,India
 
+<span class="job_title"> Embedded Developer | Automotive IVI | UI Architect </span>
 ## Executive summary
 
 Seasoned in embedded systems development with expertise in Qt/QML and C++, gained after transitioning from game development where Flash ActionScript was utilized extensively. Proficient in web design and full-stack development, with a foundation in front-end and back-end technologies. Skilled in graphic design tools like Photoshop, Inkscape, and Blender, with a track record of successfully integrating creativity with technical proficiency.
@@ -83,13 +84,13 @@ Employed as an Embedded UI Developer at the client site, NDS Cisco., focusing on
 
 ## Education 
 ###<span>Bachelor of Information Technology</span>  <span>2006 - 2009</span>
-###<span>MS University ,Tamil Nadu, India</span>
+###<span>MS University ,Tamil Nadu, India.</span>
 
 ## Other relevant information 
 - **Additional Languages:** German (Rudimentary)
 - **Technology:**  C++, Qt, QML, Automotive IVI, HMI, UI/UX, Linux, Docker, Bash, JavaScript, Action Script, Adobe Flash, Adobe Photoshop, FreeCAD, Inkscape, HTML, CSS, Git, Tortoise SVN, Clear Case.
 
-- **Awards:**
+- **Achievements:**
 	- Star Performer — L & T Technology Services (2015)
 	- Winner of Innovation Boot Camp — MBRDI (2019)
 	- Silver Star — MBRDI (2020)
