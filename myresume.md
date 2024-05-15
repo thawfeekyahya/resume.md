@@ -5,7 +5,7 @@
 - [LinkedIn](https://www.linkedin.com/in/thawfeek-yahya-31017723/)
 - Bangalore,KA,India
 
-<span class="job_title"> Embedded Developer | Automotive IVI | UI Architect </span>
+<span class="job_title"> R&D Engineer | Embedded Developer | Automotive IVI </span>
 ## Executive summary
 
 Seasoned in embedded systems development with expertise in Qt/QML and C++, gained after transitioning from game development where Flash ActionScript was utilized extensively. Proficient in web design and full-stack development, with a foundation in front-end and back-end technologies. Skilled in graphic design tools like Photoshop, Inkscape, and Blender, with a track record of successfully integrating creativity with technical proficiency.
@@ -25,7 +25,7 @@ Seasoned in embedded systems development with expertise in Qt/QML and C++, gaine
 *Mercedes-Benz is one of the biggest producers of premium cars and the world’s biggest manufacturer of commercial vehicles with a global reach.*
 </span>
 
-### Tech Lead
+### Technical Lead
 <hr class="line" />
 As the technical lead for the Widgets team in India, I am tasked with comprehending the system, designing its architecture, and leading the team in widget development alongside the concept team.
 
