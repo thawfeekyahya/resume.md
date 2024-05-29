@@ -20,9 +20,7 @@ An experienced developer with more than a decade of expertise, specializing in Q
 
 ### <span> Mercedes Benz R & D India</span> <span>April 2021 - November 2023 </span>
 
-<span class="info">
 *Mercedes-Benz is one of the biggest producers of premium cars and the world’s biggest manufacturer of commercial vehicles with a global reach.*
-</span>
 
 ### Technical Lead
 <hr class="line" />
@@ -33,7 +31,7 @@ As the technical lead for the Widgets team in India, I am tasked with comprehend
 - Led a team of five members in the development of Qt / QML / C++ based UI Widgets for the MBUX system, overseeing project milestones and ensuring the successful delivery of objectives.
 - Collaborated with the CI/CD team to ensure the proper deployment of pipeline artifacts essential for Widgets development.
 
-###<span>Mercedes Benz R & D India</span> <span>April 2016 - April 2021 </span>
+### <span>Mercedes Benz R & D India</span> <span>April 2016 - April 2021 </span>
 
 ### Senior Software Engineer
  <hr class="line" />
@@ -82,8 +80,8 @@ Employed as an Embedded UI Developer at the client site, NDS Cisco., focusing on
 - **UI / UX:**  Worked on HTML / CSS and developed UI screens for web browsers like Chrome, Firefox, and Opera.
 
 ## Education 
-###<span>Bachelor of Information Technology</span>  <span>2006 - 2009</span>
-###<span>MS University ,Tamil Nadu, India.</span>
+### <span>Bachelor of Information Technology</span>  <span>2006 - 2009</span>
+### <span>MS University ,Tamil Nadu, India.</span>
 
 ## Other relevant information 
 - **Additional Languages:** German (Rudimentary)
