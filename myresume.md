@@ -8,8 +8,7 @@
 <span class="job_title"> R&D Engineer | Embedded Developer | Automotive IVI </span>
 ## Executive summary
 
-Seasoned in embedded systems development with expertise in Qt/QML and C++, gained after transitioning from game development where Flash ActionScript was utilized extensively. Proficient in web design and full-stack development, with a foundation in front-end and back-end technologies. Skilled in graphic design tools like Photoshop, Inkscape, and Blender, with a track record of successfully integrating creativity with technical proficiency.
-
+An experienced developer with more than a decade of expertise, specializing in Qt/QML and C++, primarily in the automotive industry. Before venturing into the automotive field, my career spanned across several domains, including game development and comprehensive web development, covering both front-end and back-end technologies. I have honed my skills in optimizing system performance within stringent hardware constraints. Additionally, I am proficient in graphic design, skilled in using tools like Photoshop, Inkscape, and Blender, and have a proven track record of seamlessly integrating creative talents with technical acumen.
 
 ## Functional expertise
 
@@ -49,7 +48,7 @@ As the technical lead for the Widgets team in India, I am tasked with comprehend
 - **Technical Troubleshooting and Debugging:** Proficient in utilizing tools such as GDB, JIRA, Git, and the GCC toolchain.
 
 ### <span>L&T Technology Services</span> <span>June 2014 – April 2016 </span>
-*L&T Technology Services Limited (LTTS) is a global leader in Engineering and R&D (ER&D) services. With 650 patents filed for 53 of the Global Top 100 ER&D spenders.*
+*L&T Technology Services Limited (LTTS) is a global leader in Engineering and R&D (ER&D) services.*
 
 ### Technical Consultant
 <hr class="line" />
