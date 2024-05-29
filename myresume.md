@@ -16,9 +16,9 @@ An experienced developer with more than a decade of expertise, specializing in Q
 - **Technical Expertise** - HMI, UI/UX, Automotive Infotainment,Automotive IVI, Software Architecture, Design Patterns
 - **Technical Proficiencies** - Linux, Docker, IPC, Sound Dialogue System, Voice UI, GUI, OOPS, SOLID Principles,Data structures
 
-##Functional expertise demonstrated 
+## Functional expertise demonstrated 
 
-###<span> Mercedes Benz R & D India</span> <span>April 2021 - November 2023 </span>
+### <span> Mercedes Benz R & D India</span> <span>April 2021 - November 2023 </span>
 
 <span class="info">
 *Mercedes-Benz is one of the biggest producers of premium cars and the world’s biggest manufacturer of commercial vehicles with a global reach.*
