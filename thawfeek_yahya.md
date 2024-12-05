@@ -30,6 +30,15 @@ An experienced developer with more than a decade of expertise, specializing prim
 
 ## Functional expertise demonstrated 
 
+### <span>Xpheno</span> <span>December 2024 - Present </span>
+
+*Xpheno is a company specialising in staffing and consulting services.*
+
+### UI Engineer
+<hr class="line" />
+
+As a UI Engineer, I work on the graphics layer of the infotainment system, leveraging OpenGL, OpenGL ES, and shading languages. I also handle the integration of 3D assets from tools like Blender and Unity 3D, ensuring smooth incorporation into the infotainment system. Additionally, I support plugin development for both Blender and Unity.
+
 ### <span> Mercedes Benz R & D India</span> <span>April 2021 - November 2023 </span>
 
 *Mercedes-Benz is one of the biggest producers of premium cars and the world’s biggest manufacturer of commercial vehicles with a global reach.*
