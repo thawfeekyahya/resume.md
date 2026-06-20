@@ -66,7 +66,10 @@ Strong background in real-time rendering, 3D asset pipelines, GPU programming, a
 * GTest
 * GMock
 
-### Xpheno Staffing - Client MBRDI <span style="float:right">December 2025 - Present</span>
+<br/>
+<br/>
+
+### Xpheno Staffing - Client MBRDI <span style="float:right">December 2024 - Present</span>
 <hr class="line" />
 
 * Owned development and enhancement of an in-house automotive 3D rendering engine used to visualize vehicle assets within Mercedes-Benz infotainment systems.
@@ -83,7 +86,7 @@ Strong background in real-time rendering, 3D asset pipelines, GPU programming, a
 
 * Investigated next-generation graphics technologies and rendering architectures to support future software-defined vehicle (SDV) initiatives.
 
-### Mercedes-Benz Research & Development India <span style="float:right">April 2016 - September 2023</span>
+### Mercedes-Benz Research & Development India <span style="float:right">April 2016 - September 2023 (7.5yrs) </span>
 <hr class="line" />
 
 Led the India Widgets Team responsible for architecture, development, integration, and delivery of production MBUX widgets for Mercedes-Benz infotainment platforms.
@@ -101,7 +104,7 @@ Led the India Widgets Team responsible for architecture, development, integratio
 * **Quality & Delivery**: Ensured adherence to coding standards, software quality metrics, and project timelines across multiple releases.
 
 
-### L & Technology Services - Technical Consultant <span style="float:right">June 2014 - April 2016</span>
+### L & Technology Services - Technical Consultant <span style="float:right">June 2014 - April 2016 (2yrs) </span>
 <hr class="line" />
 
 Developed embedded user interfaces for Cisco/NDS set-top box platforms.
@@ -112,7 +115,7 @@ Developed embedded user interfaces for Cisco/NDS set-top box platforms.
 * Collaborated with hardware and platform teams on system integration and performance tuning.
 
 
-### I2Play Interactive - Game Developer <span style="float:right">Nov 2012 – June 2014 </span>
+### I2Play Interactive - Game Developer <span style="float:right">Nov 2012 – June 2014 (1.5 yrs) </span>
 <hr class="line" />
 
 Worked on MMOG development with a focus on graphics systems and visual effects.
@@ -122,7 +125,7 @@ Worked on MMOG development with a focus on graphics systems and visual effects.
 * Implemented gameplay and rendering-related features.
 * Led development of mini-games and interactive visual components.
 
-### Excel Goodies - Game Developer / Web Designer <span style="float:right">June 2011 – Jan 2012 </span>
+### Excel Goodies - Game Developer / Web Designer <span style="float:right">June 2011 – Jan 2012 (6 months) </span>
 <hr class="line" />
 
 Worked on educational games and interactive web applications.
