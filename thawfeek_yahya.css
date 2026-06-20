@@ -1,9 +1,13 @@
 body {
     color: #000000;
     background: #EEEEEE;
-    font: 1.1em "Times New Roman";
-    line-height: 1.2;
+    line-height: 1.2;:w
     margin: 40px 0;
+    font-family: "Source Sans 3", "Inter", sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: "Montserrat", sans-serif;
 }
 #resume {
     margin: 0 auto;
@@ -67,8 +71,24 @@ h1 + ul > li:last-child:after {
 h1 + ul + p {
     margin: 1em 0;
 }
+
 /* custom css--------- */
 
+h3 + ul {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4px 30px;
+
+    margin-top: 5px;
+    padding-left: 20px;
+}
+
+.skill-separator {
+    border: none;
+    border-top: 1px solid #d0d0d0;
+    margin: 8px 0 12px 0;
+
+}
 .job_title {
     font-size: 12pt;
     font-weight: bold;

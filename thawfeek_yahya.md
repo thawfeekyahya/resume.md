@@ -1,106 +1,144 @@
 # Thoufiq Yahya  
 
 - <thawfeekyahya@gmail.com>
-- 00 91 9894332552
-- [LinkedIn](https://www.linkedin.com/in/thawfeek-yahya-31017723/)
+- \+91-9894332552
+- [LinkedIn](https://www.linkedin.com/in/thawfeek-yahya-31017723)
+- [Github](https://github.com/thawfeekyahya)
 - Bangalore,KA,India
 
-<span class="job_title"> R&D Engineer | Embedded Developer | Automotive IVI </span>
-
-## Education 
-### <span>Bachelor of Information Technology</span>  <span>2006 - 2009</span>
-### <span>MS University ,Tamil Nadu, India.</span>
-
-
-- **Achievements:**
-	- Star Performer — L & T Technology Services (2015)
-	- Winner of Innovation Boot Camp — MBRDI (2019)
-	- Silver Star — MBRDI (2020)
-
+<span class="job_title"> Senior Graphics & Embedded Software Engineer | Automotive HMI  </span>
 
 ## Executive summary
 
-An experienced developer with more than a decade of expertise, specializing primarily in the automotive industry. Before venturing into the automotive field, my career spanned across several domains, including game development and comprehensive web development, covering both front-end and back-end technologies. I have honed my skills in optimizing system performance within stringent hardware constraints. Additionally, I am proficient in graphic design, skilled in using tools like Photoshop, Inkscape, and Blender, and have a proven track record of seamlessly integrating creative talents with technical acumen.
+Senior Software Engineer and Technical Lead with 13+ years of experience developing graphics-intensive automotive infotainment systems, embedded software platforms, and Human Machine Interfaces (HMI). Expertise spans C++, Embedded Linux, Qt/QML, OpenGL ES, GLSL shader programming, Unity, Android-based platforms, and software architecture.
+
+Proven track record of delivering production software for Mercedes-Benz MBUX and MB.OS platforms, leading cross-functional engineering teams, designing scalable architectures, and optimizing graphics performance on resource-constrained embedded hardware.
+
+Strong background in real-time rendering, 3D asset pipelines, GPU programming, automotive UI frameworks, conversational AI systems, and Linux-based development environments. Combines deep technical expertise with leadership experience across graphics engineering, embedded systems, software architecture, and product delivery.
 
 ## Functional expertise
 
-- **Skills** - C++, STL, Qt, QML, Javascript, Python, CMake, OpenGL, GLSL, Bash, Linux
-- **Technical Expertise** - HMI, UI/UX, Automotive Infotainment,Automotive IVI, Software Architecture, Design Patterns,Graphics Library GLSL,Shader Langauge
-- **Technical Proficiencies** - Linux, Docker, IPC, Sound Dialogue System, Voice UI, GUI, OOPS, SOLID Principles,Data structures
+### Programming Languages
 
-## Functional expertise demonstrated 
+* C++
+* Qt/QML 
+* Python
+* Bash
+* JavaScript
+<hr class="skill-separator" />
 
-### <span> Mercedes Benz R & D India</span> <span>April 2021 - November 2023 </span>
+### Graphics & Rendering
 
-*Mercedes-Benz is one of the biggest producers of premium cars and the world’s biggest manufacturer of commercial vehicles with a global reach.*
+* OpenGL ES
+* GLSL, HLSL
+* Shader Development
+* Qt Rendering Framework
+* Unity3D
+* Blender
+<hr class="skill-separator" />
 
-### Technical Lead
+### Automotive
+
+* Automotive IVI
+* Human Machine Interface (HMI)
+* Voice User Interface (VUI)
+<hr class="skill-separator" />
+
+### Embedded Systems
+
+* Embedded Linux
+* Docker
+* IPC (DBus)
+* CMake
+* GCC Toolchain
+* System Integration
+<hr class="skill-separator" />
+
+### Software Engineering
+
+* Software Architecture
+* UML
+* SOLID Principles
+* Design Patterns
+* OOP
+* CI/CD
+* TDD
+* GTest
+* GMock
+
+### Xpheno Staffing - Client MBRDI <span style="float:right">December 2025 - Present</span>
 <hr class="line" />
 
-Led the Widgets team in India, responsible for system comprehension, architecture design, and widget development in collaboration with the concept team.
+* Owned development and enhancement of an in-house automotive 3D rendering engine used to visualize vehicle assets within Mercedes-Benz infotainment systems.
 
-- **Software Design & Architecture | HMI**: Partnered with the concept team to implement widgets by transforming requirements into software architecture using UML diagrams.
-- **Architectural Design**: Applied SOLID and OOP principles to create robust, scalable architecture solutions.
-- **Team Leadership**: Managed a team of five in developing Qt/QML/C++-based UI widgets for the MBUX system, tracking milestones, and ensuring successful project delivery.
-- **CI/CD Collaboration**: Coordinated with the CI/CD team to streamline pipeline artifact deployment critical to widget development.
+* Developed and optimized rendering features using OpenGL ES, Qt Rendering Framework, GLSL, and HLSL shaders, targeting resource-constrained embedded automotive hardware.
 
-### <span>Mercedes Benz R & D India</span> <span>April 2016 - April 2021 </span>
+* Designed and implemented advanced visual effects, rendering workflows, and GPU-accelerated shader-based features for next-generation HMI experiences.
 
-### Senior Software Engineer
- <hr class="line" />
- 
- Worked across diverse technologies, contributing to sound dialogue systems, automotive IVI components, and widget development.
+* Built tooling and automation around Blender and GLTF asset pipelines, enabling efficient integration of high-quality 3D vehicle models into production infotainment environments.
 
-- **C++/Qt/QML | UI Development**: Utilized the Qt Framework to deliver complex UI widgets for the MBOS in an agile environment.
-- **Dialog Manager Framework**: Developed a dialog management framework integrating multiple NLU engines (DialogFlow.AI, RASA NLU, Wit.AI, Houndify) for the Sound Dialogue System (SDS).
-- **Bash/Python/CMake | Linux Ubuntu**: Led migration from Ubuntu 16.04 to 20.04 using custom Bash scripts and Docker, demonstrating adaptability and problem-solving.
-- **TDD Implementation**: Employed GMock and GTest for unit testing in a Test-Driven Development (TDD) approach.
-- **HMI & IVI Development**: Experience in developing applications for Automotive Human-Machine Interface (HMI) and connected IVI systems.
-- **Linux Development | IPC Expertise**: Proficient in Linux development, using IPC mechanisms like DBus for inter-process communication.
-- **Technical Troubleshooting**: Skilled in GDB, JIRA, Git, and the GCC toolchain.
+* Collaborated with designers, graphics engineers, and platform teams to improve rendering performance, memory efficiency, and maintainability of the graphics stack.
 
+* Evaluated and prototyped Unity-based rendering solutions for Android-powered automotive platforms, including architecture assessment, technology feasibility studies, and integration strategies.
 
-### <span>L&T Technology Services</span> <span>June 2014 – April 2016 </span>
-*L&T Technology Services Limited (LTTS) is a global leader in Engineering and R&D (ER&D) services.*
+* Investigated next-generation graphics technologies and rendering architectures to support future software-defined vehicle (SDV) initiatives.
 
-### Technical Consultant
+### Mercedes-Benz Research & Development India <span style="float:right">April 2016 - September 2023</span>
 <hr class="line" />
 
-Developed UI components for an Electronic Programming Guide (EPG) on embedded television setup boxes for the client, NDS Cisco.
+Led the India Widgets Team responsible for architecture, development, integration, and delivery of production MBUX widgets for Mercedes-Benz infotainment platforms.
 
-- **UI/QML Development**: Created user interfaces for EPG on embedded systems.
-- **UI/UX Design**: Developed intuitive UI elements using ActionScript 3.0/2.0 and Adobe Flash for enhanced user experience.
-- **JavaScript/ActionScript Features**: Implemented channel guides, program schedules, and interactive menus.
-- **Cross-Disciplinary Collaboration**: Worked with hardware engineers to optimize UI performance for embedded system requirements.
+* **Software Design & Architecture**: Collaborated with product owners, UX designers, and concept teams to transform requirements into scalable software architectures using UML and modern software engineering practices.
 
-### <span>I2Play Interactive</span> <span>Nov 2012 – June 2014</span>
-*I2india Ventures is a Bangalore-based incubator providing financing and mentoring solutions to technology startups.*
+* **Technical Leadership**: Led a team of five engineers responsible for development, code reviews, technical mentoring, milestone planning, and successful feature delivery.
 
-### Game Developer
+* **Qt/QML/C++ Development**: Directed implementation of complex UI widgets and reusable software components for the Mercedes-Benz MBUX ecosystem.
+
+* **Architectural Excellence**: Applied SOLID principles, design patterns, and object-oriented design techniques to build maintainable and extensible software systems.
+
+* **Cross-Team Collaboration**: Coordinated with platform, CI/CD, integration, and testing teams to streamline development workflows and deployment pipelines.
+
+* **Quality & Delivery**: Ensured adherence to coding standards, software quality metrics, and project timelines across multiple releases.
+
+
+### L & Technology Services - Technical Consultant <span style="float:right">June 2014 - April 2016</span>
 <hr class="line" />
 
-Developed animations and graphic assets for a Massively Multiplayer Online Game (MMOG).
+Developed embedded user interfaces for Cisco/NDS set-top box platforms.
 
-- **UI/UX Design**: Integrated animations and graphic assets to enhance gameplay.
-- **NPC/Particle Effects Development**: Part of the team responsible for creating NPC and particle effects in MMOGs.
-- **In-House Game Engine**: Developed a game engine using OOP and design patterns.
-- **Team Leadership**: Led a team in the development of mini-games and particle effects for MMOGs.
+* Built Electronic Program Guide (EPG) applications for embedded devices.
+* Developed UI components using QML, JavaScript, and ActionScript.
+* Optimized UI responsiveness and rendering performance on constrained hardware.
+* Collaborated with hardware and platform teams on system integration and performance tuning.
 
-### <span>Excel Goodies</span> <span>June 2011 – Jan 2012</span>
-*A startup company that specializes in web development and online education platforms.*
 
-### Game Developer / Web Designer
+### I2Play Interactive - Game Developer <span style="float:right">Nov 2012 – June 2014 </span>
 <hr class="line" />
 
-Developed games and web UI for K-12 educational platforms.
+Worked on MMOG development with a focus on graphics systems and visual effects.
 
-- **2D Game Framework**: Built a 2D game framework and created educational games for students.
-- **UI/UX Design**: Designed UI widgets and game assets with Photoshop and Inkscape.
-- **Web Development**: Developed UI screens using HTML/CSS compatible with Chrome, Firefox, and Opera.
+* Developed particle systems, animations, and visual effects.
+* Contributed to an in-house game engine using OOP and design patterns.
+* Implemented gameplay and rendering-related features.
+* Led development of mini-games and interactive visual components.
 
-## Other relevant information 
-- **Additional Languages:** German (Rudimentary)
-- **Skills:**  C++, Qt, QML, Automotive IVI, HMI, UI/UX, Linux, Docker, Bash, JavaScript, Action Script, Adobe Flash, Adobe Photoshop, FreeCAD, Inkscape, HTML, CSS, Git, Tortoise SVN, Clear Case.
+### Excel Goodies - Game Developer / Web Designer <span style="float:right">June 2011 – Jan 2012 </span>
+<hr class="line" />
+
+Worked on educational games and interactive web applications.
+
+* Developed 2D educational games and reusable UI components.
+* Created graphics and visual assets using Photoshop and Inkscape.
+* Developed web-based user interfaces using HTML and CSS.
 
 
+## Awards & Recognition
+
+- Star Performer — L&T Technology Services (2015)
+- Winner, Innovation Boot Camp — Mercedes-Benz R&D (2019)
+- Silver Star — Mercedes-Benz R&D (2020)
+
+<hr class="line" />
+## Education 
+### <span>Bachelor of Information Technology</span>  <span style="float:right">2006 - 2009</span>
 
