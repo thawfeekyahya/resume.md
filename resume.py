@@ -104,11 +104,17 @@ def make_html(md: str, prefix: str = "resume") -> str:
     Insert <prefix>.css if it exists.
     """
     try:
-        with open(prefix + ".css") as cssfp:
+        with open(f"{prefix}.css", "r") as cssfp:
             css = cssfp.read()
     except FileNotFoundError:
-        print(prefix + ".css not found. Output will by unstyled.")
-        css = ""
+        try:
+            print(f"{prefix}.css not found. Using default.css as the base styling.")
+            with open("default.css", "r") as cssfp:
+                css = cssfp.read()
+        except FileNotFoundError:
+            print(f"{prefix}.css and default.css not found. Output will be unstyled.")
+            css = ""
+
     return "".join(
         (
             preamble.format(title=title(md), css=css),
@@ -116,7 +122,6 @@ def make_html(md: str, prefix: str = "resume") -> str:
             postamble,
         )
     )
-
 
 def write_pdf(html: str, prefix: str = "resume", chrome: str = "") -> None:
     """
