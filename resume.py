@@ -84,7 +84,7 @@ def guess_chrome_path() -> str:
     raise ValueError("Could not find Chrome. Please set CHROME_PATH.")
 
 
-def title(md: str) -> str:
+def title(md: str, fallback: str = " ") -> str:
     """
     Return the contents of the first markdown heading in md, which we
     assume to be the title of the document.
@@ -92,9 +92,11 @@ def title(md: str) -> str:
     for line in md.splitlines():
         if re.match("^#[^#]", line):  # starts with exactly one '#'
             return line.lstrip("#").strip()
-    raise ValueError(
-        "Cannot find any lines that look like markdown h1 headings to use as the title"
+    logging.warning(
+        "Cannot find any lines that look like markdown h1 headings to use as the title. "
+        f"Using fallback title: {fallback}"
     )
+    return fallback
 
 
 def make_html(md: str, prefix: str = "resume") -> str:
@@ -115,9 +117,10 @@ def make_html(md: str, prefix: str = "resume") -> str:
             print(f"{prefix}.css and default.css not found. Output will be unstyled.")
             css = ""
 
+    fallback_title = os.path.basename(prefix)
     return "".join(
         (
-            preamble.format(title=title(md), css=css),
+            preamble.format(title=title(md, fallback=fallback_title), css=css),
             markdown.markdown(md, extensions=["smarty", "abbr"]),
             postamble,
         )
