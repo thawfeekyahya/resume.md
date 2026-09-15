@@ -6,11 +6,11 @@
 - [Github](https://github.com/thawfeekyahya)
 - Bangalore,KA,India
 
-<span class="job_title"> Senior Embedded Software Engineer | Automotive HMI  </span>
+<span class="job_title"> Senior Software Engineer | Linux Platforms, Automation & Performance Engineering </span>
 
 ## Executive summary
 
-Software Architect and Technical Lead with 13+ years of experience designing embedded software, automotive infotainment platforms, graphics systems and Human Machine Interfaces. Extensive experience spanning C++, Qt/QML, Embedded Linux, OpenGL ES, GPU programming, conversational AI, Android Automotive and software architecture. Proven track record leading cross-functional engineering teams and delivering production software for Mercedes-Benz MBUX and MB.OS platforms. Experienced across the complete software lifecycle, from research prototypes and framework development to production deployment, graphics optimization and technical leadership.
+Software Architect and Technical Lead with 13+ years of experience building and supporting production software on Linux-based embedded platforms. Strong background in C++, Python, Bash, system integration, performance analysis, debugging, CI/CD, and automation-oriented engineering. Proven record of taking ownership of complex codebases, improving runtime efficiency, collaborating with globally distributed teams, and delivering production software for Mercedes-Benz MBUX and MB.OS platforms. Experienced across the complete software lifecycle, from requirements and architecture through development, integration, release, production support, and continuous improvement.
 
 ## Functional expertise
 
@@ -21,6 +21,22 @@ Software Architect and Technical Lead with 13+ years of experience designing emb
 * Python
 * Bash
 * JavaScript
+* Kotlin
+* Rust
+
+<hr class="skill-separator" />
+
+### Linux, Automation & Operations
+
+* Embedded Linux
+* Bash and Python scripting
+* System integration and dependency management
+* Performance analysis and runtime debugging
+* Resource-constrained systems optimization
+* Docker and containerized workflows
+* CI/CD and build automation
+* GCC, CMake and cross-compilation toolchains
+
 <hr class="skill-separator" />
 
 ### Graphics & Rendering
@@ -38,15 +54,13 @@ Software Architect and Technical Lead with 13+ years of experience designing emb
 * Automotive IVI
 * Human Machine Interface (HMI)
 * Voice User Interface (VUI)
+* Android Automotive OS
+
 <hr class="skill-separator" />
 
 ### Embedded Systems
 
-* Embedded Linux
-* Docker
 * IPC (DBus)
-* CMake
-* GCC Toolchain
 * System Integration
 <hr class="skill-separator" />
 
@@ -68,25 +82,26 @@ Software Architect and Technical Lead with 13+ years of experience designing emb
 ### Xpheno Staffing - Client MBRDI <span style="float:right">December 2024 - Present</span>
 <hr class="line" />
 
-* Took ownership of an in-house 3D visualization engine after the project transitioned from another engineering team, ensuring continuity, maintainability, and feature development.
+* Took ownership of an in-house 3D visualization engine after transition from another engineering team, ensuring service continuity, maintainability, issue resolution, and feature delivery.
 * Developed and enhanced a real-time automotive visualization engine built on Qt, responsible for rendering interactive 3D vehicle models used to demonstrate vehicle features and user interactions within Mercedes-Benz infotainment systems.
 * Worked extensively with the Qt Graphics and Rendering Framework, gaining deep understanding of Qt's rendering pipeline, scene graph, and graphics architecture to implement scalable rendering solutions.
 * Designed and implemented new visualization features using GLSL shader programming, developing GPU-accelerated rendering effects and custom visualizations for next-generation automotive HMI use cases.
-* Optimized rendering performance, shader execution, and graphics workflows for resource-constrained embedded automotive hardware.
-* Collaborated closely with UX designers, graphics engineers, and platform teams to integrate new rendering capabilities into production software.
+* Optimized rendering performance, shader execution, memory usage, and graphics workflows for resource-constrained embedded Linux hardware; investigated runtime behavior and addressed performance bottlenecks.
+* Collaborated closely with UX designers, graphics engineers, platform teams, and integration stakeholders to define requirements, resolve issues, and integrate production capabilities.
 * Contributed to the evaluation and migration strategy toward Unity-based rendering architecture, exploring integration approaches and next-generation graphics technologies for future Software Defined Vehicle (SDV) platforms.
-* Participated in architectural discussions involving graphics engine evolution, rendering pipelines, asset workflows, and long-term technology direction.
+* Participated in architectural discussions involving graphics engine evolution, rendering pipelines, asset workflows, maintainability, and long-term technology direction.
 
 ### Mercedes-Benz Research & Development India <span style="float:right">April 2016 - September 2023 (7.5yrs) </span>
 <hr class="line" />
 
-* Led architecture and development of next-generation production widgets for Mercedes-Benz MBUX and MB.OS infotainment platforms.
+* Led architecture and development of next-generation production widgets for Mercedes-Benz MBUX and MB.OS infotainment platforms running on embedded Linux.
 * Designed reusable UI frameworks using modern C++, Qt6 and QML.
 * Built advanced UI controls exceeding standard Qt Quick Controls capabilities, including animated buttons, progress indicators, shader-driven effects and complex interaction patterns.  
 * Designed reusable component architecture adopted across multiple infotainment applications.
 * Worked closely with UX designers to translate high-fidelity concepts into production-quality embedded software.
-* Led code reviews, architecture discussions and technical mentoring for a team of engineers.
-* Collaborated with platform, CI/CD and integration teams across Germany and India.
+* Led code reviews, architecture discussions, technical mentoring, and engineering quality improvements for a team of engineers.
+* Collaborated with platform, CI/CD, release, and integration teams across Germany and India to deliver software through the product lifecycle.
+* Diagnosed integration, runtime, and resource-usage issues in complex applications and worked with platform teams to reproduce and resolve defects.
 * Designed and developed a prototype in-house Sound Dialogue System (SDS) for Mercedes-Benz to evaluate alternatives to third-party voice assistant vendors.
 * Built a context-aware dialogue manager capable of dynamically switching between multiple Natural Language Understanding (NLU) providers.
 * Integrated multiple cloud-based NLU engines including Dialogflow, Rasa, Wit.ai and Houndify.
@@ -99,8 +114,8 @@ Software Architect and Technical Lead with 13+ years of experience designing emb
 * Worked as a consultant for Cisco NDS on embedded television middleware and Electronic Program Guide (EPG) development.
 * Developed embedded user interfaces using Adobe Flash, ActionScript and later Qt/QML technologies.
 * Participated in the organization's migration from Flash-based UI frameworks to modern Qt/QML-based embedded applications.
-* Collaborated with Linux platform teams on embedded software integration.
-* Optimized UI performance and memory usage for resource-constrained embedded devices.
+* Collaborated with Linux platform teams on embedded software integration, build configuration, and application troubleshooting.
+* Optimized UI performance and memory usage for resource-constrained embedded devices and supported resolution of integration issues.
 * Gained extensive experience in Embedded Linux, C++, Qt/QML and embedded application architecture.
 
 ### I2Play Interactive - Game Developer <span style="float:right">Nov 2012 – June 2014 (1.5 yrs) </span>
