@@ -99,23 +99,32 @@ def title(md: str, fallback: str = " ") -> str:
     return fallback
 
 
-def make_html(md: str, prefix: str = "resume") -> str:
+def make_html(md: str, prefix: str = "resume", css_path: str = "") -> str:
     """
     Compile md to HTML and prepend/append preamble/postamble.
 
-    Insert <prefix>.css if it exists.
+    Use css_path if provided, otherwise fall back to <prefix>.css and then
+    default.css if no matching file is found.
     """
-    try:
-        with open(f"{prefix}.css", "r") as cssfp:
-            css = cssfp.read()
-    except FileNotFoundError:
+    css = ""
+    candidates = []
+
+    if css_path:
+        candidates.append(css_path)
+
+    candidates.extend((f"{prefix}.css", "default.css"))
+
+    for candidate in candidates:
         try:
-            print(f"{prefix}.css not found. Using default.css as the base styling.")
-            with open("default.css", "r") as cssfp:
+            with open(candidate, "r", encoding="utf-8") as cssfp:
                 css = cssfp.read()
+                break
         except FileNotFoundError:
-            print(f"{prefix}.css and default.css not found. Output will be unstyled.")
-            css = ""
+            continue
+
+    if not css:
+        missing = ", ".join(candidates)
+        print(f"No stylesheet found from: {missing}. Output will be unstyled.")
 
     fallback_title = os.path.basename(prefix)
     return "".join(
@@ -204,6 +213,10 @@ if __name__ == "__main__":
         "--chrome-path",
         help="Path to Chrome or Chromium executable",
     )
+    parser.add_argument(
+        "--css",
+        help="Path to a custom CSS file. If not provided, resume.css or default.css is used.",
+    )
     parser.add_argument("-q", "--quiet", action="store_true")
     parser.add_argument("--debug", action="store_true")
     args = parser.parse_args()
@@ -219,7 +232,7 @@ if __name__ == "__main__":
 
     with open(args.file, encoding="utf-8") as mdfp:
         md = mdfp.read()
-    html = make_html(md, prefix=prefix)
+    html = make_html(md, prefix=prefix, css_path=args.css)
 
     if not args.no_html:
         with open(prefix + ".html", "w", encoding="utf-8") as htmlfp:
