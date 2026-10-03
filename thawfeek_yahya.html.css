@@ -1,0 +1,201 @@
+/* thawfeek_yahya_class_based_v2.css - Fully Class-Based Stylesheet with Explicit Fonts */
+
+/* Base & Container Styles */
+.resume-body {
+    color: #17202a;
+    background: #eef2f5;
+    line-height: 1.35;
+    margin: 32px 0;
+    font-family: "Source Sans 3", "Segoe UI", Roboto, sans-serif;
+    font-size: 9.5pt;
+}
+
+.resume-container {
+    margin: 0 auto;
+    max-width: 820px;
+    padding: 36px 44px;
+    background: #FFFFFF;
+    border-top: 6px solid #1f4e5f;
+    box-shadow: 0 4px 18px rgba(23, 32, 42, 0.12);
+    -webkit-box-shadow: 0 4px 18px rgba(23, 32, 42, 0.12);
+    font-family: "Source Sans 3", "Segoe UI", Roboto, sans-serif;
+}
+
+/* Header & Name */
+.resume-name {
+    color: #1f4e5f;
+    text-align: center;
+    margin: 0 0 4px;    
+    padding: 0;
+    font-size: 22pt;
+    font-weight: 700;
+    font-family: "Montserrat", "Segoe UI", sans-serif;
+    align-items: center;
+}
+
+.job_title {
+    color: #4c6872;
+    font-size: 11pt;
+    font-weight: bold;
+    display: block;
+    width: fit-content;
+    margin: 0 auto;
+    text-align: center;
+    font-family: "Montserrat", "Segoe UI", sans-serif;
+}
+
+/* Contact List */
+.contact-list {
+    text-align: center;
+    margin: 0 0 10px 0;
+    padding: 0;
+    list-style-type: none;
+    font-family: "Source Sans 3", "Segoe UI", sans-serif;
+}
+
+.contact-item {
+    display: inline;
+    white-space: pre;
+    font-size: 9.5pt;
+    color: #333333;
+    font-family: "Source Sans 3", "Segoe UI", sans-serif;
+}
+
+.contact-item:after {
+    content: "  \2022  ";
+    color: #1f4e5f;
+    font-weight: bold;
+}
+
+.contact-item:last-child:after {
+    content: "";
+}
+
+.contact-link {
+    color: #1f4e5f;
+    text-decoration: none;
+    font-family: "Source Sans 3", "Segoe UI", sans-serif;
+}
+
+/* Section Titles */
+.section-title {
+    color: #1f4e5f;
+    border-bottom: 2px solid #b8cbd1;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    font-size: 11pt;
+    font-weight: 700;
+    margin: 1.35em 0 0.55em;
+    padding: 0 0 3px;
+    font-family: "Montserrat", "Segoe UI", sans-serif;
+}
+
+/* Sub-Headings & Role Headers */
+.role-header {
+    color: #17202a;
+    font-size: 10.5pt;
+    font-weight: bold;
+    margin: 0.9em 0 0.3em;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    font-family: "Montserrat", "Segoe UI", sans-serif;
+}
+
+.job_date {
+    float: right;
+    font-weight: normal;
+    font-family: "Source Sans 3", "Segoe UI", sans-serif;
+}
+
+.category-title {
+    color: #17202a;
+    font-size: 10pt;
+    font-weight: bold;
+    margin: 0.8em 0 0.2em;
+    font-family: "Montserrat", "Segoe UI", sans-serif;
+}
+
+/* Paragraphs & Text */
+.section-text {
+    margin: 0 0 0.65em;
+    padding: 0;
+    font-family: "Source Sans 3", "Segoe UI", sans-serif;
+    font-size: 9.5pt;
+}
+
+.summary-text {
+    margin: 1em 0;
+    font-size: 9.5pt;
+    text-align: justify;
+    font-family: "Source Sans 3", "Segoe UI", sans-serif;
+}
+
+/* Lists & Bullets */
+.bullet-list {
+    padding: 0;
+    margin: 0 0 0.65em 1.2em;
+    font-family: "Source Sans 3", "Segoe UI", sans-serif;
+}
+
+.bullet-list-compact {
+    padding: 0;
+    margin: 0.2em 0 0.65em 1.2em;
+    font-family: "Source Sans 3", "Segoe UI", sans-serif;
+}
+
+.bullet-item {
+    margin-top: 3px;
+    font-size: 9.5pt;
+    font-family: "Source Sans 3", "Segoe UI", sans-serif;
+}
+
+/* Lines */
+.line {
+    border: none;
+    border-top: 1px solid #d6e0e3;
+    margin: 3px 0 6px 0;
+}
+
+.skill-separator {
+    border: none;
+    border-top: 1px solid #d0d0d0;
+    margin: 8px 0 12px 0;
+}
+
+@media print {
+    .resume-body {
+        font-size: 9pt;
+        line-height: 1.2;
+        margin: 0;
+        padding: 0;
+        background: none;
+    }
+    .resume-container {
+        margin: 0;
+        padding: 0;
+        border: 0px;
+        background: none;
+        box-shadow: none;
+    }
+    .contact-link, a {
+        color: #000000;
+        text-decoration: underline;
+    }
+    .section-title {
+        margin-top: 0.9em;
+        margin-bottom: 0.35em;
+    }
+    .role-header {
+        margin-top: 0.55em;
+        margin-bottom: 0.15em;
+    }
+    .bullet-item {
+        margin-top: 1px;
+    }
+}
+
+@page {
+    size: letter;
+    margin: 0.4in 0.7in;
+}
