@@ -40,6 +40,7 @@ Lead Embedded Engineer & Software Architect with over 13 years of expertise driv
 ### Emerging Expertise
 
 * Board Support Package (BSP) & Board-Level Software Concepts
+* QNX x86/x64 & ARM Architecture, QNX Neutrino RTOS Fundamentals,QNX Hypervisor & Virtualization Concepts
 * Bare-Metal Programming Fundamentals
 * Android Open Source Project (AOSP) Architecture & Platform Fundamentals
 
