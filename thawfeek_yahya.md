@@ -6,47 +6,38 @@
 - [GitHub](https://github.com/thawfeekyahya)
 - Bangalore, Karnataka, India
 
-<span class="job_title">Senior Software Architect | Lead Embedded Engineer | C++ | Qt/QML | Software-Defined Vehicle</span>
+<span class="job_title">Senior Software Architect | Lead Embedded Engineer | Software-Defined Vehicle</span>
 
 ## Professional Summary
 
 Lead Embedded Engineer & Software Architect with over 13 years of expertise driving the architecture and delivery of embedded Linux software, voice-enabled automotive systems, and real-time HMI platforms. Proven track record leading multi-engineer teams through ambiguous problem spaces, establishing architectural standards (ADRs), and architecting low-latency IPC layers (D-Bus, Thrift, Facelift). Specialist in Modern C++, Qt6/QML, dialogue/voice agent integration, and scalable system design.
 
-## Core Competencies
+## CORE COMPETENCIES
 
-### Software Architecture & System Design
+### Core Programming Skills
+* C++, Qt, QML, Python, Bash, JavaScript, HTML, CSS, GLSL, HLSL, OpenGL, WebGL
 
-* Software Architecture, Modular Architecture, Subsystem Design, Architecture Decision Records (ADRs)
-* Inter-Process Communication (IPC): D-Bus, Apache Thrift, Facelift (QML IPC framework)
-* Modern C++ (C++11/14/17), Object-Oriented Design, SOLID Principles, Design Patterns
-* Qt Framework, Qt6, Qt Quick, QML, JavaScript, Reusable Framework Architecture
-* Technical Leadership, Team Mentoring, Code Reviews, Technical Design & UML
+### Platforms & Systems
+* Embedded Linux, QNX, AOSP, RTOS, Virtualization, BSP
 
-### Performance & Graphics Engineering
+### Design & Paradigms
+* Object-Oriented Programming (OOP), Declarative Paradigm, SOLID Principles, Design Patterns
 
-* OpenGL ES, GLSL, Qt Rendering Framework, GPU-Accelerated Rendering Pipelines
-* Perfetto System Tracing, QML Profiler, Trace-Based Performance Analysis, GPU/Memory Optimization
-* Real-Time 3D Visualization Engines, Shader Development, Engine Feasibility Evaluation (Qt vs. Unity)
-* Asset Workflows (Blender, GLTF), Resource-Constrained Embedded Hardware Optimization
+### Voice & Conversational AI
+* NLU, ASR, Dialogflow, Rasa, Wit.ai, Houndify, Alexa Skills, Sound Dialogue Systems
 
-### Platforms, Tooling & Delivery
+### Graphics & Performance
+* Optimization, Profiling, Shaders, Rendering Pipelines, Perfetto, QML Profiler
 
-* Embedded Linux, Linux Application Development, System Integration
-* Docker Containerization, Custom Graphics/Windowing Workstation Simulation
-* CMake, GCC, Cross-Compilation, GDB, Git, CI/CD Workflows, JIRA
-* Test-Driven Development (TDD), GTest, GMock, Agile Methodologies
-* Python, Bash, JavaScript, ActionScript, PHP
+### Creative & Design Tools
+* Photoshop, Figma, Blender, Unity
 
-### Emerging Expertise
-
-* Board Support Package (BSP) & Board-Level Software Concepts
-* QNX x86/x64 & ARM Architecture, QNX Neutrino RTOS Fundamentals,QNX Hypervisor & Virtualization Concepts
-* Bare-Metal Programming Fundamentals
-* Android Open Source Project (AOSP) Architecture & Platform Fundamentals
+### Tooling & Delivery
+* Docker, CMake, Git, Cross-Compilation, CI/CD, TDD, IPC (D-Bus, Apache Thrift, Facelift)
 
 ## Professional Experience
 
-### Xpheno Staffing | Embedded Software Engineer (Client: MBRDI) <span class="job_date">December 2024 - Present</span>
+### Xpheno Staffing | Visualization / Simulation Engineer (Client: MBRDI) <span class="job_date">December 2024 - Present</span>
 <hr class="line" />
 
 * Own and optimize an in-house real-time 3D visualization engine for automotive infotainment and software-defined vehicle (SDV) experiences.
